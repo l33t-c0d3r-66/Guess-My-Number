@@ -31,7 +31,7 @@
 <li> https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 <li> https://www.w3.org/TR/REC-DOM-Level-1/introduction.html
   
-## Thanks to JONAS.IO for this amazing project Idea and providing HTML and CSS.
+ ### Thanks to **Jonas.io** for this amazing project idea and HTML, CSS for project
 
 ## Screenshot:
 <img src="https://github.com/l33t-c0d3r-66/Guess-My-Number/blob/master/images/ss1.png" >

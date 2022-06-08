@@ -1,5 +1,5 @@
 # Guess-My-Number
-<li> A simple Number Guessing Game written with JavaScript.
+<li> A Number Guessing Game written with JavaScript.
 <li> This Game is written with the help of HTML, CSS and JavaScript.
 <li> This Game Utilizes the Concept of HTML, CSS, JavaScript and DOM Manipulation.
 
